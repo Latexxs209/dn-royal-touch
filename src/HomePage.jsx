@@ -1,6 +1,6 @@
 import { useRef } from "react";
 import emailjs from "@emailjs/browser";
-import { Button } from "@/components/ui/button";
+import { Button } from "../components/ui/button";
 import { Car, Scissors, Quote, Instagram, Facebook } from "lucide-react";
 import toast, { Toaster } from "react-hot-toast";
 
